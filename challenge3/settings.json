@@ -1,0 +1,26 @@
+{
+    "accountcompanies": {
+        "kpmg": {
+            "name": "John",
+            "age": 30,
+            "car": null
+        },
+        "ey": {
+            "name": "John",
+            "age": 30,
+            "car": null
+        }
+    },
+    "Servicecompanies": {
+        "kpmg": {
+            "name": "John",
+            "age": 30,
+            "car": null
+        },
+        "ey": {
+            "name": "John",
+            "age": 30,
+            "car": null
+        }
+    }
+}
